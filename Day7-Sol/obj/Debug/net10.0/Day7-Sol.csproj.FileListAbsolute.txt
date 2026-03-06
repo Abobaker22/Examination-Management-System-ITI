@@ -1,0 +1,14 @@
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\bin\Debug\net10.0\Day7-Sol.exe
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\bin\Debug\net10.0\Day7-Sol.deps.json
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\bin\Debug\net10.0\Day7-Sol.runtimeconfig.json
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\bin\Debug\net10.0\Day7-Sol.dll
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\bin\Debug\net10.0\Day7-Sol.pdb
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\obj\Debug\net10.0\Day7-Sol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\obj\Debug\net10.0\Day7-Sol.AssemblyInfoInputs.cache
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\obj\Debug\net10.0\Day7-Sol.AssemblyInfo.cs
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\obj\Debug\net10.0\Day7-Sol.csproj.CoreCompileInputs.cache
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\obj\Debug\net10.0\Day7-Sol.dll
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\obj\Debug\net10.0\refint\Day7-Sol.dll
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\obj\Debug\net10.0\Day7-Sol.pdb
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\obj\Debug\net10.0\Day7-Sol.genruntimeconfig.cache
+D:\Courses\ITI\ITI Content\C#\Day7\Task Solution\Day7-Sol\Day7-Sol\obj\Debug\net10.0\ref\Day7-Sol.dll

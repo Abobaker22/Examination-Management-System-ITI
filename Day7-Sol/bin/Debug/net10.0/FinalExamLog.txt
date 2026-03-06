@@ -1,0 +1,96 @@
+Question Detais
+HeaderQ1
+, BodyC# supports OOP.
+, Marks5
+, AnswersDay7_Sol.Models.Answers.AnswerList
+, CorrectAnswerAnswer Id :1, Answer Texxt True
+
+------------------------------
+Question Detais
+HeaderQ2
+, BodyWhich is an OOP principle?
+, Marks10
+, AnswersDay7_Sol.Models.Answers.AnswerList
+, CorrectAnswerAnswer Id :1, Answer Texxt Encapsulation
+
+------------------------------
+Question Detais
+HeaderQ1
+, BodyC# supports OOP.
+, Marks5
+, AnswersDay7_Sol.Models.Answers.AnswerList
+, CorrectAnswerAnswer Id :1, Answer Texxt True
+
+------------------------------
+Question Detais
+HeaderQ2
+, BodyWhich is an OOP principle?
+, Marks10
+, AnswersDay7_Sol.Models.Answers.AnswerList
+, CorrectAnswerAnswer Id :1, Answer Texxt Encapsulation
+
+------------------------------
+Question Detais
+HeaderQ1
+, BodyC# supports OOP.
+, Marks5
+, AnswersDay7_Sol.Models.Answers.AnswerList
+, CorrectAnswerAnswer Id :1, Answer Texxt True
+
+------------------------------
+Question Detais
+HeaderQ2
+, BodyWhich is an OOP principle?
+, Marks10
+, AnswersDay7_Sol.Models.Answers.AnswerList
+, CorrectAnswerAnswer Id :1, Answer Texxt Encapsulation
+
+------------------------------
+Question Detais
+HeaderQ1
+, BodyC# supports OOP.
+, Marks5
+, AnswersDay7_Sol.Models.Answers.AnswerList
+, CorrectAnswerAnswer Id :1, Answer Texxt True
+
+------------------------------
+Question Detais
+HeaderQ2
+, BodyWhich is an OOP principle?
+, Marks10
+, AnswersDay7_Sol.Models.Answers.AnswerList
+, CorrectAnswerAnswer Id :1, Answer Texxt Encapsulation
+
+------------------------------
+Question Detais
+HeaderQ1
+, BodyC# supports OOP.
+, Marks5
+, AnswersDay7_Sol.Models.Answers.AnswerList
+, CorrectAnswerAnswer Id :1, Answer Texxt True
+
+------------------------------
+Question Detais
+HeaderQ2
+, BodyWhich is an OOP principle?
+, Marks10
+, AnswersDay7_Sol.Models.Answers.AnswerList
+, CorrectAnswerAnswer Id :1, Answer Texxt Encapsulation
+
+------------------------------
+Question Detais
+HeaderQ1
+, BodyC# supports OOP.
+, Marks5
+, AnswersDay7_Sol.Models.Answers.AnswerList
+, CorrectAnswerAnswer Id :1, Answer Texxt True
+
+------------------------------
+Question Detais
+HeaderQ2
+, BodyWhich is an OOP principle?
+, Marks10
+, AnswersDay7_Sol.Models.Answers.AnswerList
+, CorrectAnswerAnswer Id :1, Answer Texxt Encapsulation
+
+------------------------------
